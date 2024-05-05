@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a JSON Databse<br>🤝 I’m looking for help with Docker <br>🌱 I’m currently learning React<br>💬 Ask me about Java or JavaScript<br>
+🔭 I’m currently working on a JSON Database<br>🤝 I’m looking for help with Docker <br>🌱 I’m currently learning React<br>💬 Ask me about Java or JavaScript<br>
 
 
 ## 🌐 Socials:
